@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">Setup Your Plan</string>
+    <string name="content_name">You can change the mode anytime in the setting</string>
+    <string name="string_pie_chart">Its a PieChart</string>
+    <string name="first_text">Setup Wizard</string>
+    <string name="second_text">RECOMMENDED</string>
+    <string name="string_equilizer">Its an Equilizer</string>
+    <string name="third_text">Start From Scratch</string>
+    <string name="fourth_text">FOR EXPERTS</string>
+    <string name="string_notes_text">Its a Note</string>
+    <string name="fifth_text">Templates</string>
+    <string name="sixth_text">FOR COMPLETE BEGINNERS</string>
+
 </resources>
